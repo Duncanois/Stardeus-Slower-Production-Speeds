@@ -1,0 +1,6 @@
+{
+    "Floats" : [
+        { "Key" : "ProcessingSpeed", "Float" : 0.2 },
+        { "Key" : "CraftingSpeed", "Float" : 0.2 }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Id" : "SlowerProductionTimes",
+	"SteamWorkshop" : false,
+    "Name" : "Slower Production Times",
+    "Description" : "Makes crafting and processing speeds five times slower",
+    "ModVersion" : "1.0.1",
+    "GameVersion" : "0.11.0-rc100",
+    "Dependencies" : [ "Core" ]
+}
